@@ -1,3 +1,3 @@
 Ini adalah keterang di baris pertama
-Saya telah menghapus baris kedua
 Saya menambahkan baris ketiga
+Saya keterangan di baris ketiga
