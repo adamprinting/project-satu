@@ -1,4 +1,4 @@
 Ini adalah keterang di baris pertama
-Saya telah menghapus baris kedua
 Saya menambahkan baris ketiga
 Penambahan baris ke empat
+
