@@ -1,6 +1,75 @@
-Ini adalah keterang di baris pertama
-Saya menambahkan baris ketiga
-Penambahan baris ke empat
-penambahan line ke lima
-penambahan baris 6
-penambahanhhhhh
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <style>
+
+    /* CSS styling for the sidebar */
+
+    .sidebar {
+
+      height: 100%;
+
+      width: 200px;
+
+      position: fixed;
+
+      top: 0;
+
+      left: 0;
+
+      background-color: #f1f1f1;
+
+      overflow-x: hidden;
+
+      padding-top: 20px;
+
+    }
+
+    .sidebar a {
+
+      display: block;
+
+      padding: 16px;
+
+      text-decoration: none;
+
+      color: #000;
+
+    }
+
+    .sidebar a:hover {
+
+      background-color: #ddd;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <div class="sidebar">
+
+    <a href="#">Home</a>
+
+    <a href="#">About</a>
+
+    <a href="#">Services</a>
+
+    <a href="#">Contact</a>
+
+  </div>
+
+  <div class="content">
+
+    <!-- Your page content goes here -->
+
+  </div>
+
+</body>
+
+</html>
